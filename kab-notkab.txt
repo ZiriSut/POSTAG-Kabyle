@@ -3,9 +3,9 @@
 #7015545 Yeffeɣ-ik leεqel, neɣ amek?
 #7015564 Yeggugem yiles, yeεgez i lmenṭeq.
 #7015565 Zwir leεqel, ddunit tettɣurru!
-#7024827 Ԑiwen-iyi ad lemdeɣ tanehart.
-#7026757 Cḥal deg laεmer-ik.
-#7027592 Meεni nnumeɣ-tt, d nettat kan iɛecqeɣ.
+#7024827 Ԑiwen-iyi ad lemdeɣ tanhart.
+#7026757 Acḥal deg laεmer-ik.
+#7027592 Meεni nnumeɣ-tt, d nettat kan i ɛecqeɣ.
 #7027613 Ass-a d tameɣra, ad nefreḥ meṛṛa.
 #7027730 Mi ara yemmet yiwen neγ mi ara temmet yiwet, lemmer d lebγi, win yessnen imawlan ulaxert, ad asen-yaru
 #7027790 Eğğ-itt ad k-terğu nettat.
